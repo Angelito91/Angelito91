@@ -16,5 +16,5 @@
 
 - 📫 How to reach me **portuondoangel@gmail.com**
 
-<h3>Can look my portfolio</h3>
-<a align="center" width="500px" heigth="500px" href="https://angelito91.github.io/portfolio/">The web is here 💼</a> 
+<h3>Can see my portfolio</h3>
+<a align="center" href="https://angelito91.github.io/portfolio/">The web is here 💼</a> 
