@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelito91&label=Profile%20views&color=0e75b6&style=flat" alt="angelito91" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://angelito91.github.io/portfolio](https://angelito91.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://angelito91.github.io](https://angelito91.github.io)
 
 - 💬 Ask me about **Python, Javascript, React and other programming languages**
 
