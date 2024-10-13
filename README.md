@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate software developer from Cuba</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelito91&label=Profile%20views&color=0e75b6&style=flat" alt="angelito91" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=angelito91&label=Profile%20views&color=0e75b6&style=flat" alt="angelito91" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://angelito91.github.io](https://angelito91.github.io)
 
