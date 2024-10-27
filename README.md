@@ -36,9 +36,6 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 <a href="https://twitter.com/Angelito23756">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
 </a>
-<a href="https://twitter.com/Angelito23756">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
-</a>
 <a href="mailto:portuondoangel@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 </a>
@@ -46,5 +43,3 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <b>Github Stats</b>
 
 [![](https://github-readme-stats.vercel.app/api?username=Angelito91&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Angelito91)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Angelito91&theme=material-palenight)](https://github.com/Angelito91)
-
