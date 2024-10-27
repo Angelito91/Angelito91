@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=angelito91&label=Profile%20views&color=blueviolet&style=flat" alt="angelito91" />
 </div>
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About me
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -17,7 +16,7 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 💜 I love playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 📫 Look all my projects here -> <a href="https://angelito91.github.io">angelito91.github.io</a>
+- 👨‍💻 Look all my projects here -> <a href="https://angelito91.github.io">angelito91.github.io</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> Languages, Tools and Technologies 
 
@@ -28,7 +27,6 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,md,obsidian,vscode)](https://skillicons.dev)
-
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
@@ -44,7 +42,6 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 <a href="mailto:portuondoangel@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
 </a>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <b>Github Stats</b>
 
