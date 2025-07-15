@@ -23,7 +23,7 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,svelte,astro,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,php,mysql,sqlite,unrealgit,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,php,mysql,sqlite,unreal,git,github,linux,vscode" />
   </a>
 </p>
 
