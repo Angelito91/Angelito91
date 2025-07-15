@@ -20,11 +20,12 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> Languages, Tools and Technologies 
 
-<div align="center">
-	[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,svelte,astro,nodejs,express)](https://skillicons.dev)
-
-	[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,rust,php,mysql,sqlite,unrealgit,github,linux,vscode)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,svelte,astro,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,php,mysql,sqlite,unrealgit,github,linux,vscode" />
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
