@@ -20,13 +20,13 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> Languages, Tools and Technologies 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,svelte,astro,nodejs,express,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,svelte,astro,nodejs,express)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,rust,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=db.sql,mysql,sqlite,unreal)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,md,obsidian,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
