@@ -24,7 +24,7 @@ I am a student of Computer Science, currently I am in the first year. I am expan
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,rust,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=db.sql,mysql,sqlite,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=db,sql,mysql,sqlite,unreal)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
 
